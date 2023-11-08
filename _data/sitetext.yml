@@ -20,20 +20,20 @@ en: &DEFAULT_EN
     section: ideals
     list:
       - title: "Collaborative Experiences"
-        desc: "Our games are designed to put everyone's enjoyment first, table-top games should be fun and let people express and experience things in ways they enjoy. For play groups of all skill levels, our games are easy to understand with plenty of system depth to explore and build unique characters and experiences. "
+        desc: "Our games are designed to put everyone's enjoyment first, table-top games should be fun and let people express and experience things in ways they enjoy. For play groups of all skill levels, our games are easy to understand with plenty of system depth to explore and build unique characters and experiences."
         icon: fas fa-users
       - title: "Minimal Equipment"
-        desc: "Gaming equipment can be expensive, our games try to minimize the tools you need so you can focus on telling great stories. Use the assets you enjoy without feeling like you need them."
+        desc: "Gaming equipment can be expensive, our games try to minimize the tools you need so you can focus on telling great stories. Use the gaming assets you enjoy without feeling like they are a requirement. Our games are well suited to online or in person play, having all rules hosted online and usable on mobile."
         icon: fas fa-dice
-      - title: "Hackable"
-        desc: "No TTRPG table is alike, everyone's group has different needs and preferences. Our games are all [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en), so you can freely share, modify, and create content with the intent to sell. All of our games stored in readable text making it easy to share them."
+      - title: "Hackable Rules"
+        desc: "No TTRPG table is alike, everyone's group has different needs and preferences. Our games are all [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en), so you can freely share, modify, and create content, including selling it. All of our games stored in readable text, making it easy to share or distribute them however you choose."
         icon: fas fa-pen
 
   portfolio:
     title: "Games"
     text: "All of our games."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   about:
     title: "About Us"

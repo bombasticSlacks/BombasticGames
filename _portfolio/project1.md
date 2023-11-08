@@ -1,18 +1,17 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Aspirant
+subtitle: A game about adventure and expertise!
+image: assets/img/portfolio/01-full.svg
+alt: A campsite with a tent and fire.
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: Aspirant
+  subtitle: A fantasy RPG.
+  thumbnail: assets/img/portfolio/01-thumbnail.svg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Aspirant is a fantasy TTRPG where the players discover and collaborate to build and explore a world of fantasy and magic.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- [Game](https://aspirantrpg.com/)
+- [GitHub](https://github.com/bombasticSlacks/Aspirant)
 

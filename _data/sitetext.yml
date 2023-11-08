@@ -25,12 +25,9 @@ en: &DEFAULT_EN
       - title: "Minimal Equipment"
         desc: "Gaming equipment can be expensive, our games try to minimize the tools you need so you can focus on telling great stories."
         icon: fas fa-dice
-      - title: "Portability"
-        desc: "All of our games written in clear sharable and editable text, so they can be delivered and shared however you want."
-        icon: fab fa-markdown
       - title: "Hackable"
-        desc: "No TTRPG table is alike, everyone's group has different needs and preferences. Our games are all [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en), so you can freely share, modify, and create content with the intent to sell."
-        icon: fab fa-markdown
+        desc: "No TTRPG table is alike, everyone's group has different needs and preferences. Our games are all [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en), so you can freely share, modify, and create content with the intent to sell. All of our games written in clear sharable and editable text, so they can be delivered and shared however you want."
+        icon: fas fa-file-pen
 
   portfolio:
     title: "Games"
@@ -41,7 +38,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Bombastic Games is the work of [BombasticSlacks](https://github.com/bombasticSlacks) a software developer and long time GM with a history of writing their own games and introducing others to the joys of table-top roleplaying."
+    body: "Bombastic Games is the work of [BombasticSlacks](https://github.com/bombasticSlacks) a software developer and long-time game master with a history of writing their own games and introducing others to the joys of table-top role-playing."
     section: about
 
 en-US:

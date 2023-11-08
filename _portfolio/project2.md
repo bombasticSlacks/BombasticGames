@@ -12,6 +12,6 @@ caption:
 Look To The Sky is a powered by the apocalypse game with an advanced Space Opera setting where nothing is impossible. A galaxy where everyone is connected, nothing is scarce, and a powerful unique artifact or piece of technology is only a cave dive or a favour away.
 
 {:.list-inline}
-- [Game](https://bombasticslacks.github.io/LTTS/)
+- [Game](https://ltts.bombasticgames.com)
 - [GitHub](https://github.com/bombasticSlacks/LTTS)
 

@@ -21,7 +21,6 @@ title      : Bombastic Games
 email      : your-email@example.com #this is also the email contact forms will go to
 description: "Free open source TTRPG games."
 author     : Dillon Matchett
-logo: Bombastic Games
 path: assets\img\BGLogo.png
   # height: 60 #height in px, defaults to 52px
 

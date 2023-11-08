@@ -12,9 +12,9 @@
 en: &DEFAULT_EN
   header:
     title: Bombastic Games
-    text: Free and modular Table Top Roleplaying Games
+    text: Table Top Roleplaying Games
 
-  ideals:
+  services:
     title: "Ideals"
     text: "What we stand for"
     section: ideals
@@ -32,7 +32,7 @@ en: &DEFAULT_EN
         desc: "No TTRPG table is alike, everyone's group has different needs and preferences. Our games are all [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en), so you can freely share, modify, and create content with the intent to sell."
         icon: fab fa-markdown
 
-  games:
+  portfolio:
     title: "Games"
     text: "All of our games."
     section: games

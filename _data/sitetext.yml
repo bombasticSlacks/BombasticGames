@@ -27,7 +27,7 @@ en: &DEFAULT_EN
         icon: fas fa-dice
       - title: "Hackable"
         desc: "No TTRPG table is alike, everyone's group has different needs and preferences. Our games are all [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en), so you can freely share, modify, and create content with the intent to sell. All of our games written in clear sharable and editable text, so they can be delivered and shared however you want."
-        icon: fas fa-square-pen
+        icon: fas fa-pen
 
   portfolio:
     title: "Games"

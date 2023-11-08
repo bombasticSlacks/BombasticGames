@@ -20,10 +20,10 @@ en: &DEFAULT_EN
     section: ideals
     list:
       - title: "Collaborative Experiences"
-        desc: "Our games are designed to put everyone's enjoyment first, table-top games should be fun and let people express and experience things in ways they enjoy."
+        desc: "Our games are designed to put everyone's enjoyment first, table-top games should be fun and let people express and experience things in ways they enjoy. For play groups of all skill levels, our games are easy to understand with plenty of system depth to explore and build unique characters and experiences. "
         icon: fas fa-users
       - title: "Minimal Equipment"
-        desc: "Gaming equipment can be expensive, our games try to minimize the tools you need so you can focus on telling great stories."
+        desc: "Gaming equipment can be expensive, our games try to minimize the tools you need so you can focus on telling great stories. Use the assets you enjoy without feeling like you need them."
         icon: fas fa-dice
       - title: "Hackable"
         desc: "No TTRPG table is alike, everyone's group has different needs and preferences. Our games are all [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en), so you can freely share, modify, and create content with the intent to sell. All of our games written in clear sharable and editable text, so they can be delivered and shared however you want."

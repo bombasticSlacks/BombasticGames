@@ -26,7 +26,7 @@ en: &DEFAULT_EN
         desc: "Gaming equipment can be expensive, our games try to minimize the tools you need so you can focus on telling great stories. Use the assets you enjoy without feeling like you need them."
         icon: fas fa-dice
       - title: "Hackable"
-        desc: "No TTRPG table is alike, everyone's group has different needs and preferences. Our games are all [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en), so you can freely share, modify, and create content with the intent to sell. All of our games written in clear sharable and editable text, so they can be delivered and shared however you want."
+        desc: "No TTRPG table is alike, everyone's group has different needs and preferences. Our games are all [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en), so you can freely share, modify, and create content with the intent to sell. All of our games stored in readable text making it easy to share them."
         icon: fas fa-pen
 
   portfolio:

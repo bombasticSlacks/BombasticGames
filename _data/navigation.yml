@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     - title: "Ideals"
       section: ideals
     - title: "Games"
-      section: games
+      section: portfolio
     - title: "About"
       section: about
 en-US:

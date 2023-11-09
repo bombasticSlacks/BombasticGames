@@ -26,7 +26,7 @@ en: &DEFAULT_EN
         desc: "Gaming equipment can be expensive, our games try to minimize the tools you need so you can focus on telling great stories. Use the gaming assets you enjoy without feeling like they are a requirement. Our games are well suited to online or in person play, having all rules hosted online and usable on mobile."
         icon: fas fa-dice
       - title: "Hackable Rules"
-        desc: "No TTRPG table is alike, everyone's group has different needs and preferences. Our games are all [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en), so you can freely share, modify, and create content, including selling it. All of our games stored in readable text, making it easy to share or distribute them however you choose."
+        desc: "No TTRPG table is alike, everyone's group has different needs and preferences. Our games are all [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en), so you can freely share, modify, and create content, including selling it. All of our games are stored as readable [Markdown](https://en.wikipedia.org/wiki/Markdown), making it easy to share or distribute them however you choose."
         icon: fas fa-pen
 
   portfolio:

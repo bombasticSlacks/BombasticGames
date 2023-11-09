@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Bombastic Games
+    title: 
     text: Table Top Role-playing
 
   services:
@@ -31,14 +31,15 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Games"
-    text: "All of our games."
+    text: "All of our games"
     section: portfolio
     closebutton: "Close"
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Bombastic Games is the work of [BombasticSlacks](https://github.com/bombasticSlacks) a software developer and long-time game master with a history of writing their own games and introducing others to the joys of table-top role-playing."
+    text: "Our story"
+    body: "
+Bombastic Games is the work of [BombasticSlacks](https://github.com/bombasticSlacks) a software developer and long-time game master with a history of writing their own games and introducing others to the joys of table-top role-playing. After years of hacking games, and home brewing, they started writing and running their own games full time. Buying sourcebooks can be expensive, and sharing them illegally is an ethical issue, thus the desire to create fully free and sharable games that are a joy to play."
     section: about
 
 en-US:
